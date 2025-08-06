@@ -4,8 +4,8 @@ import requests
 from datetime import datetime
 
 # ========== CONFIGURATION ==========
-TELEGRAM_TOKEN = 'YOUR_BOT_TOKEN_HERE'
-TELEGRAM_CHAT_ID = 'YOUR_CHAT_ID_HERE'
+TELEGRAM_TOKEN = '8388741759:AAGIrTfTv-fOG1QBloqCm9GdjLljNGSjoe8'
+TELEGRAM_CHAT_ID = '7622266268'
 SYMBOLS = ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'XRPUSDT']
 
 # ========== KEEP ALIVE (FOR REPLIT) ==========
